@@ -8,7 +8,7 @@ Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, Intell
 
 Реализованные проекты:
 
-Автотестирование приложения для операций с банковскими счетами на JAVA 
+Автотестирование приложения для операций с банковскими счетами на JAVA - https://github.com/YulyiaMaxi/DiplomaJava
 
 Тестирование (ручное) сайта-магазина мужской одежды Henderson.ru
 
