@@ -2,19 +2,23 @@
 
 Я Юлия Максимова, тестировщик на JAVA.
 
-Мой стек:
+_Мой стек_:
 
-Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, IntelliJ IDEA, Postman, RestAPI, MySQL, PostgreSQL, Docker, Jira, Report Portal, Allure
+**Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, IntelliJ IDEA, Postman, RestAPI, MySQL, PostgreSQL, Docker, Jira, Report Portal, Allure**
 
-Реализованные проекты:
+_Реализованные проекты_:
 
-Курсовой проект. Автотестирование приложения для операций с банковскими счетами на JAVA - https://github.com/YulyiaMaxi/DiplomaJava
+Курсовой проект. **Автотестирование приложения** для операций с банковскими счетами на JAVA - https://github.com/YulyiaMaxi/DiplomaJava
 
-Курсовой проект.Тестирование (ручное) сайта-магазина мужской одежды Henderson.ru - https://docs.google.com/spreadsheets/d/1_PjZwbkGuLlXD8tkuB6h14iiwYxr4usgqfmX_idA6a0/edit#gid=0
+Курсовой проект. **Тестирование (ручное) сайта-магазина** мужской одежды Henderson.ru - https://docs.google.com/spreadsheets/d/1_PjZwbkGuLlXD8tkuB6h14iiwYxr4usgqfmX_idA6a0/edit#gid=0
 
-Проект по Page Object - https://github.com/YulyiaMaxi/Page_Object
+Проект по **Page Object** - https://github.com/YulyiaMaxi/PageObject1
 
-Проект по SQL - https://github.com/YulyiaMaxi/sql2
+Проект по **SQL** - https://github.com/YulyiaMaxi/sql2
+
+Проект по **Docker** - https://github.com/YulyiaMaxi/Docker1
+
+
 
 
 
