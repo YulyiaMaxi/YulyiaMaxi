@@ -1,16 +1,33 @@
-### Hi there 👋
+Привет!
+Я Юлия Максимова, тестировщик на JAVA.
 
-<!--
-**YulyiaMaxi/YulyiaMaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой стек:
+Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, IntelliJ IDEA, Postman, RestAPI, MySQL, PostgreSQL, Docker, Jira, Report Portal, Allure
 
-Here are some ideas to get you started:
+Вот что я умею:
+Реализованы проекты:
+Автотестирование приложения для операций с банковскими счетами на JAVA 
+Тестирование (ручное) сайта-магазина мужской одежды Henderson.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Django, drf (https://github.com/mikepro-alfamail-ru/domclick)
+
+Python. Репозиторий с дипломной работой
+
+Django. Домашние работы по курсу Django
+
+Flask, Asyncio, Aiohttp, Docker, Docker-compose. Примеры в репозитории
+
+SQL (postgres, mysql). Итоговая работа по курсу SQL и получение данных
+
+Сертификаты Нетологии
+
+Ручное тестирование
+HTML и CSS для тестировщиков
+Git - система контроля версий
+JAVA для тестировщиков
+Автоматическое тестирование
+Системы аналитики
+Основы практической статистики
+Маркетинговая и клиентская аналитика
+
