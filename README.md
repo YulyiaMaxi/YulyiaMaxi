@@ -14,6 +14,9 @@ Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, Intell
 
 Проект по Page Object - https://github.com/YulyiaMaxi/Page_Object
 
+Проект по SQL - https://github.com/YulyiaMaxi/sql2
+
+
 
 
 
