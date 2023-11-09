@@ -9,6 +9,7 @@ Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, Intell
 Реализованные проекты:
 
 Автотестирование приложения для операций с банковскими счетами на JAVA 
+
 Тестирование (ручное) сайта-магазина мужской одежды Henderson.ru
 
 
