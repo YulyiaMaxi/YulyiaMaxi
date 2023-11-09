@@ -10,7 +10,7 @@ Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, Intell
 
 Автотестирование приложения для операций с банковскими счетами на JAVA - https://github.com/YulyiaMaxi/DiplomaJava
 
-Тестирование (ручное) сайта-магазина мужской одежды Henderson.ru
+Тестирование (ручное) сайта-магазина мужской одежды Henderson.ru - https://docs.google.com/spreadsheets/d/1_PjZwbkGuLlXD8tkuB6h14iiwYxr4usgqfmX_idA6a0/edit#gid=0
 
 
 Django, drf (https://github.com/mikepro-alfamail-ru/domclick)
