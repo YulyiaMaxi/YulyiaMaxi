@@ -32,7 +32,7 @@
 
 (_Прочие проекты и активность- в моем профиле на GitHub_ - https://github.com/YulyiaMaxi)
 
-**_Сертификаты "Нетологии"_**
+**_Сертификаты "Нетологии"_**:
 
 **Автоматическое тестирование** - https://netology.ru/sharing/0aead0c5ee48cc59085ccd85fa9b5cd6?utm_source=social&utm_campaign=certificate_lms
 
@@ -48,15 +48,15 @@
 
 Тестовое задание для Яндекс - https://github.com/YulyiaMaxi/Companies-Yandex-
 
-**_Дополнительно:_**
+*_Дополнительно:_*
 
 + курсы по аналитике "Нетологии"
    
-**Системы аналитики** - https://netology.ru/sharing/ba7559ef17d82292519a443bd9338e62?utm_source=social&utm_campaign=certificate_lms
+Системы аналитики - https://netology.ru/sharing/ba7559ef17d82292519a443bd9338e62?utm_source=social&utm_campaign=certificate_lms
 
-**Основы практической статистики** - https://netology.ru/sharing/f257b74bf1527404d679859861a28a23?utm_source=social&utm_campaign=certificate_lms
+Основы практической статистики - https://netology.ru/sharing/f257b74bf1527404d679859861a28a23?utm_source=social&utm_campaign=certificate_lms
 
-**Маркетинговая и клиентская аналитика** - https://netology.ru/sharing/a7c7c7e2e5e38c247dfeb2c285b90181?utm_source=social&utm_campaign=certificate_lms
+Маркетинговая и клиентская аналитика - https://netology.ru/sharing/a7c7c7e2e5e38c247dfeb2c285b90181?utm_source=social&utm_campaign=certificate_lms
 
 + курс по созданию эффективных презентаций в Bonnie&Slide - https://bonnieandslide.com/pl/68825780
 
