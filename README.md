@@ -44,7 +44,13 @@ Git - система контроля версий - https://netology.ru/sharing
 
 JAVA для тестировщиков - https://netology.ru/sharing/b73cd2807cb694a3386959c3941f8ca1?utm_source=social&utm_campaign=certificate_lms
 
- + курсы по аналитике
+Тестовые задания для компаний-работодателей:
+
+Тестовое задание для Яндекс - https://github.com/YulyiaMaxi/Companies-Yandex-
+
+_Дополнительно:_
+
++ курсы по аналитике "Нетологии"
    
 Системы аналитики - https://netology.ru/sharing/ba7559ef17d82292519a443bd9338e62?utm_source=social&utm_campaign=certificate_lms
 
@@ -52,7 +58,7 @@ JAVA для тестировщиков - https://netology.ru/sharing/b73cd2807cb
 
 Маркетинговая и клиентская аналитика - https://netology.ru/sharing/a7c7c7e2e5e38c247dfeb2c285b90181?utm_source=social&utm_campaign=certificate_lms
 
-Тестовые задания для компаний-работодателей:
++ курс по созданию эффективных презентаций в Bonnie&Slide - https://bonnieandslide.com/pl/68825780
 
-Тестовое задание для Яндекс - https://github.com/YulyiaMaxi/Companies-Yandex-
+
 
