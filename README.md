@@ -1,12 +1,12 @@
 Привет!
 
-Я Юлия Максимова, тестировщик на JAVA.
+Я Юлия Максимова, тестировщик на JAVA. Обучалась в "Нетологии" по программе "Тестировщик ПО" - https://netology.ru/programs/qa
 
-_Мой стек_:
+**_Мой стек_:**
 
 **Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, IntelliJ IDEA, Postman, RestAPI, MySQL, PostgreSQL, Docker, Jira, Report Portal, Allure**
 
-_Реализованные проекты_:
+**_Реализованные проекты_:**
 
 Курсовой проект. **Автотестирование приложения** для операций с банковскими счетами на JAVA - https://github.com/YulyiaMaxi/DiplomaJava
 
@@ -22,30 +22,34 @@ _Реализованные проекты_:
 
 Проекты по **Selenide** - https://github.com/YulyiaMaxi/CardDelivery и https://github.com/YulyiaMaxi/FormDelivery4
 
+Проекты **API,CI** - по https://github.com/YulyiaMaxi/Rest и https://github.com/YulyiaMaxi/RestPostman
 
+Проект по **Collections Framework** - https://github.com/YulyiaMaxi/Collection
 
+Проект по **Generisc** - https://github.com/YulyiaMaxi/Generics
 
+Проект по **Exceptions** - https://github.com/YulyiaMaxi/Except.
 
+_Прочие проекты и активность- в моем профиле на GitHub_ - https://github.com/YulyiaMaxi
 
+**_Сертификаты "Нетологии"_**
 
+Автоматическое тестирование - https://netology.ru/sharing/0aead0c5ee48cc59085ccd85fa9b5cd6?utm_source=social&utm_campaign=certificate_lms
 
-Сертификаты Нетологии
+Ручное тестирование - https://netology.ru/sharing/fff91b67e78c1ca96c4c4c782ac46c61?utm_source=social&utm_campaign=certificate_lms 
 
-Ручное тестирование
+HTML и CSS для тестировщиков - https://netology.ru/sharing/d811f6f3df57b25daa309237d8cd35ad?utm_source=social&utm_campaign=certificate_lms
 
-HTML и CSS для тестировщиков
+Git - система контроля версий - https://netology.ru/sharing/5648c4137c90f37e2ec2c4490a89b867?utm_source=social&utm_campaign=certificate_lms
 
-Git - система контроля версий
+JAVA для тестировщиков - https://netology.ru/sharing/b73cd2807cb694a3386959c3941f8ca1?utm_source=social&utm_campaign=certificate_lms
 
-JAVA для тестировщиков
+ + курсы по аналитике 
+Системы аналитики - https://netology.ru/sharing/ba7559ef17d82292519a443bd9338e62?utm_source=social&utm_campaign=certificate_lms
 
-Автоматическое тестирование
+Основы практической статистики - https://netology.ru/sharing/f257b74bf1527404d679859861a28a23?utm_source=social&utm_campaign=certificate_lms
 
-Системы аналитики
-
-Основы практической статистики
-
-Маркетинговая и клиентская аналитика
+Маркетинговая и клиентская аналитика - https://netology.ru/sharing/a7c7c7e2e5e38c247dfeb2c285b90181?utm_source=social&utm_campaign=certificate_lms
 
 Тестовые задания для компаний-работодателей:
 
