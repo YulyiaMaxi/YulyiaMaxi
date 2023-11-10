@@ -18,6 +18,10 @@ _Реализованные проекты_:
 
 Проект по **Docker и Docker-compose** - https://github.com/YulyiaMaxi/Docker2
 
+Проект по **Patterns** - https://github.com/YulyiaMaxi/Patterns1
+
+Проекты по **Selenide** - https://github.com/YulyiaMaxi/CardDelivery и https://github.com/YulyiaMaxi/FormDelivery4
+
 
 
 
