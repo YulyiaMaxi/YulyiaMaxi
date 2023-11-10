@@ -48,6 +48,8 @@
 
 Тестовое задание для Яндекс - https://github.com/YulyiaMaxi/Companies-Yandex-
 
+Тестовое задание для Яндекс - https://cloud.mail.ru/public/jfMb/2YuxYAs27
+
 *_Дополнительно:_*
 
 + курсы по аналитике "Нетологии"
