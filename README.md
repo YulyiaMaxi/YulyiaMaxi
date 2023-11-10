@@ -44,7 +44,8 @@ Git - система контроля версий - https://netology.ru/sharing
 
 JAVA для тестировщиков - https://netology.ru/sharing/b73cd2807cb694a3386959c3941f8ca1?utm_source=social&utm_campaign=certificate_lms
 
- + курсы по аналитике 
+ + курсы по аналитике
+   
 Системы аналитики - https://netology.ru/sharing/ba7559ef17d82292519a443bd9338e62?utm_source=social&utm_campaign=certificate_lms
 
 Основы практической статистики - https://netology.ru/sharing/f257b74bf1527404d679859861a28a23?utm_source=social&utm_campaign=certificate_lms
