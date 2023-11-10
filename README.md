@@ -16,7 +16,7 @@ _Реализованные проекты_:
 
 Проект по **SQL** - https://github.com/YulyiaMaxi/sql2
 
-Проект по **Docker** - https://github.com/YulyiaMaxi/Docker1
+Проект по **Docker и Docker-compose** - https://github.com/YulyiaMaxi/Docker2
 
 
 
