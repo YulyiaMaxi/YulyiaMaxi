@@ -50,6 +50,10 @@
 
 Тестовое задание для Яндекс - https://cloud.mail.ru/public/jfMb/2YuxYAs27
 
+Тестовое задание для Яндекс (Алиса) - https://cloud.mail.ru/attaches/16968514381451391515%3B0%3B1?folder-id=500000&x-email=orjuice%40mail.ru&cvg=f
+
+Тестовое задание для Яндекс (тестирование браузера) - https://docs.google.com/document/d/1JDc7emyQdmaXS7DYt4Gb_tf6mtZAQAmFr-GWdyYfyUg/edit
+
 *_Дополнительно:_*
 
 + курсы по аналитике "Нетологии"
