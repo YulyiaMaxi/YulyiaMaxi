@@ -8,6 +8,8 @@
 
 **_Реализованные проекты_:**
 
+Дипломный проект **Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка** - https://github.com/YulyiaMaxi/Diploma-QA
+
 Курсовой проект. **Автотестирование приложения** для операций с банковскими счетами на JAVA - https://github.com/YulyiaMaxi/DiplomaJava
 
 Курсовой проект. **Тестирование (ручное) сайта-магазина** мужской одежды Henderson.ru - https://docs.google.com/spreadsheets/d/1_PjZwbkGuLlXD8tkuB6h14iiwYxr4usgqfmX_idA6a0/edit#gid=0
