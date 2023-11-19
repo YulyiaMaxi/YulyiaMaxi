@@ -28,7 +28,7 @@
 
 Проект по **Collections Framework** - https://github.com/YulyiaMaxi/Collection
 
-Проект по **Generisc** - https://github.com/YulyiaMaxi/Generics
+Проект по **Generics** - https://github.com/YulyiaMaxi/Generics
 
 Проект по **Exceptions** - https://github.com/YulyiaMaxi/Except.
 
