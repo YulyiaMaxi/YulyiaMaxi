@@ -56,6 +56,8 @@
 
 Тестовое задание для Яндекс (тестирование браузера) - https://docs.google.com/document/d/1JDc7emyQdmaXS7DYt4Gb_tf6mtZAQAmFr-GWdyYfyUg/edit
 
+Тестовое задание для "Лиги цифровой экономики" - https://docs.google.com/spreadsheets/d/1tAoegFc1T2l6LHsP-8bw1qfGGLTw9ykR0A3ek17U3_g/edit?pli=1#gid=0 и https://github.com/YulyiaMaxi/TextBoxCheck/blob/main/src/main/java/org/example/Main.java
+
 *_Дополнительно:_*
 
 + курсы по аналитике "Нетологии"
