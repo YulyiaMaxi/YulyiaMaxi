@@ -2,6 +2,8 @@
 
 Я Юлия Максимова, тестировщик на JAVA. Обучалась в "Нетологии" по программе "Тестировщик ПО" - https://netology.ru/programs/qa
 
+Имею диплом об окончании программы - https://netology.ru/sharing/dbe29350d3aedba88ec8553d0d027e57?utm_source=social&utm_campaign=certificate_lms 
+
 **_Мой стек_:**
 
 **Windows, Bash, Git, GitHub, Java, Python, Selenium/Selenide, SQL, JUnit5, IntelliJ IDEA, Postman, RestAPI, MySQL, PostgreSQL, Docker, Jira, Report Portal, Allure**
