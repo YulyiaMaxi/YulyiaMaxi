@@ -60,7 +60,7 @@
 
 Тестовое задание для "Лиги цифровой экономики" - https://docs.google.com/spreadsheets/d/1tAoegFc1T2l6LHsP-8bw1qfGGLTw9ykR0A3ek17U3_g/edit?pli=1#gid=0 и https://github.com/YulyiaMaxi/TextBoxCheck/blob/main/src/main/java/org/example/Main.java
 
-Тестовое задание для Gridnine - Тест для Gridnine Systems Максимова Юлия - Google Документы
+Тестовое задание для Gridnine - [Тест для Gridnine Systems Максимова Юлия - Google Документы](https://docs.google.com/document/d/1-cjRVBsk1uW8A-gNA9TW7LbsxNPSzqkycjxPg_CaRYI/edit)
 
 *_Дополнительно:_*
 
